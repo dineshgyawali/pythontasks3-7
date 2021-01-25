@@ -1,0 +1,6 @@
+Tuple is immutable, no values can be added to a value in tuple whereas a list is a mutable data structure. Tuple is mostly
+used to safeguard the data of great importance where the data doesn't need to be modified and needs to be kept safe. 
+
+Tuple is also suitable for heterogenous data types, whereas list is mostly preferred for a single data typpe.
+
+Since tuple is immutable, iterating through tuple is faster than in the list. 
